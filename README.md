@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, Artur Zainotti aqui ;) 👋
+Estudante de Ciência da Computação e entusiasta de tecnologia. Atualmente estudo desenvolvimento web, banco de dados e ciências de dados.
 
-<!--
-**artbwz/artbwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Ciências da Computação - 3º Período
+- ⚽ Apaixonado por futebol
+- 🖥  Atualmente mais focado em:
 
-Here are some ideas to get you started:
+<div display="inline">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Você também me encontra em:
+<div display="inline">
+  <a href="https://www.linkedin.com/in/arturbwz/">
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  </a>
+</div>
+
+  
+          
+  
