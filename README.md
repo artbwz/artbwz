@@ -1,7 +1,7 @@
 ## Olá, Artur Zainotti aqui ;) 👋
-Estudante de Ciência da Computação e entusiasta de tecnologia.
+Desenvolver, analista, estudante de Ciência da Computação e entusiasta de tecnologia.
 
-- 👨🏻‍💻 Ciências da Computação - 4º Período
+- 👨🏻‍💻 Ciências da Computação - 5º Período
 - ⚽ Apaixonado por futebol
 - 🖥  Atualmente mais focado em:
 
