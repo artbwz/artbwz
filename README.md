@@ -1,9 +1,13 @@
-## Olá, Artur Zainotti aqui ;) 👋
-Desenvolver, analista, estudante de Ciência da Computação e entusiasta de tecnologia.
+# Olá! Eu sou o Artur Zainotti 👋  
+💻 Desenvolvedor | Analista | Entusiasta de tecnologia 
 
-- 👨🏻‍💻 Ciências da Computação - 5º Período
+## Formação
+- 👨🏻‍💻 Ciências da Computação
 
-- 🖥  Atualmente mais focado em:
+## 🖥 Áreas de foco atualmente  
+- Desenvolvimento Frontend com Angular e React
+- Backend com Node.js e Java 
+- Banco de Dados SQL e NoSQL 
 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -19,6 +23,7 @@ Desenvolver, analista, estudante de Ciência da Computação e entusiasta de tec
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
+-Email: arturbwz@hotmail.com
 
   
           
