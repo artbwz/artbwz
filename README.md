@@ -23,7 +23,7 @@
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
--Email: arturbwz@hotmail.com
+- Email: arturbwz@hotmail.com
 
   
           
